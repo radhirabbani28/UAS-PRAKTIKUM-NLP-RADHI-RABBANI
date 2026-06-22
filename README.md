@@ -228,7 +228,7 @@ Lagi cari mobil keluarga premium, budget sampai 250 juta, mending yang automatic
 
 ## 🎥 Video Demo
 
-📺 Link video UAS (Google Drive): **[tambahkan link di sini]**
+📺 Link video UAS (Google Drive): **[https://drive.google.com/drive/folders/1B4s32CZnJaRBYItc_dZqFFz4A_zv-QXx]**
 
 Video berisi:
 - Penjelasan teori LangChain, LangGraph, dan LangSmith (15-25 menit)
